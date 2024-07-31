@@ -12,10 +12,10 @@ node getblurhash.js
 
 ## Screenshots
 
-- **Slider**
+- **Images for Hash**
 
-![App Screenshot](https://github.com/ramazandogna/image-gallery-swiperjs/blob/main/src/assets/slider.png)
+![App Screenshot](https://github.com/ramazandogna/blurhash/blob/main/screenshots-1.png)
 
-- **Image Optimization**
+- **Hash Datas**
 
-![App Screenshot](https://github.com/ramazandogna/image-gallery-swiperjs/blob/main/src/assets/image-optimization.png)
+![App Screenshot](https://github.com/ramazandogna/blurhash/blob/main/screenshots-2.png)
